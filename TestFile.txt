@@ -1,0 +1,1 @@
+Test the GitActions to know more about their usages
